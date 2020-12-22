@@ -1,0 +1,31 @@
+#group1 {
+    width: 49%;
+    display: inline-block;
+}
+#group2 {
+    width: 49%;
+    display: inline-block;
+}
+#makeParagraph1 {
+    font-size: 50px;
+}
+#makeParagraph2 {
+    font-size: 50px;
+}
+body {
+    text-align: center;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+    font-weight: 900;
+}
+input {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+button {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
